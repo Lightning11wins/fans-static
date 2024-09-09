@@ -1,3 +1,6 @@
 # I am definitely not an IntelliJ user.
 # VIM just put this folder here for some reason idk why
 .idea
+
+# Prevent the idiot VIM users from goofing up.
+*.swp
